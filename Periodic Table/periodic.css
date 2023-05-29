@@ -1,0 +1,146 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  scroll-behavior: smooth;
+}
+body {
+}
+.table-page {
+  background-color: #e9a178;
+  height: 20vh;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  background-color: #f6e1c3;
+}
+.title {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+h1 {
+  font-family: "Oswald", sans-serif;
+  font-size: 60px;
+}
+table {
+  padding-top: 30px;
+  width: 80%;
+  border-collapse: separate;
+  border-spacing: 3px;
+  margin-bottom: 40px;
+}
+td {
+  height: 55px;
+  text-align: center;
+  font-weight: bolder;
+  padding: 0px;
+}
+td {
+  width: 100px;
+  padding: 0px;
+  font-size: 14px;
+}
+.c1,
+.c2,
+.c3 {
+  border: 0px;
+  background-color: transparent;
+}
+.s1 {
+  color: #f2f1ec;
+  font-size: 11px;
+  text-align: center;
+  padding-top: 5px;
+  padding-left: 2px;
+  padding-bottom: 2px;
+  letter-spacing: 1px;
+  border: none;
+}
+.p1 {
+  font-weight: bolder;
+  padding-bottom: 10px;
+  color: #f2f1ec;
+  opacity: 0.8;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+  border: 0px;
+  padding: 0px;
+  margin: 4px 0px;
+}
+.p2 {
+  font-weight: 200;
+  color: #f2f1ec;
+  opacity: 0.8;
+  font-size: 12px;
+  font-family: "Montserrat", sans-serif;
+  padding: 0px 2px;
+  padding-bottom: 5px;
+}
+.blue-green {
+  background-color: #199797;
+}
+.blue-green .s1 {
+  background-color: #007172;
+}
+.yellow {
+  background-color: #e5de00;
+}
+.yellow .s1 {
+  background-color: #e6cc00;
+}
+.orange {
+  background-color: #e88504;
+}
+.orange .s1 {
+  background-color: #dc6601;
+}
+.blue {
+  background-color: #187bcd;
+}
+.blue .s1 {
+  background-color: #1167b1;
+}
+.black {
+  background-color: #192f3e;
+}
+.black .s1 {
+  background-color: #13232e;
+}
+.gray {
+  background-color: #8e8e8e;
+}
+.gray .s1 {
+  background-color: #7e7e7e;
+}
+.pink {
+  background-color: #e0218a;
+}
+.pink .s1 {
+  background-color: #c10071;
+}
+.skyblue {
+  background-color: #45b6fe;
+}
+.skyblue .s1 {
+  background-color: #3792cb;
+}
+.violet {
+  background-color: #7c5295;
+}
+.violet .s1 {
+  background-color: #52307c;
+}
+.dark-orange {
+  background-color: #f03801;
+}
+.dark-orange .s1 {
+  background-color: #eb1c01;
+}
+.green {
+  background-color: #449e48;
+}
+.green .s1 {
+  background-color: #3d8c40;
+}
